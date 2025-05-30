@@ -50,8 +50,8 @@ https://templatemo.com/tm-591-villa-agency
       <div class="row">
         <div class="col-lg-8 col-md-8">
           <ul class="info">
-            <li><i class="fa fa-envelope"></i> info@company.com</li>
-            <li><i class="fa fa-map"></i> Sunny Isles Beach, FL 33160</li>
+            <!-- <li><i class="fa fa-envelope"></i> info@company.com</li> -->
+            <!-- <li><i class="fa fa-map"></i> Sunny Isles Beach, FL 33160</li> -->
           </ul>
         </div>
         <div class="col-lg-4 col-md-4">
@@ -73,20 +73,20 @@ https://templatemo.com/tm-591-villa-agency
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
+                    <a href="index.php" class="logo">
                         <h1>Grocerry   Shop</h1>
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                      <li><a href="index.html" class="active">Home</a></li>
-                      <li><a href="properties.html">About us</a></li>
-                      <li><a href="property-details.html">Property Details</a></li>
-                      <li><a href="property-details.html">Services</a></li>
-                      <li><a href="property-details.html">Services Details</a></li>
+                      <li><a href="index.php" class="active">Home</a></li>
+                      <li><a href="properties.php">About us</a></li>
+                      <li><a href="property-details.php">Property Details</a></li>
+                      <li><a href="property-details.php">Services</a></li>
+                      <li><a href="property-details.php">Services Details</a></li>
 
 
-                      <li><a href="contact.html">Contact Us</a></li>
+                      <li><a href="contact.php">Contact Us</a></li>
                       <li><a href="#"><i class="fa fa-calendar"></i> Schedule a visit</a></li>
                   </ul>   
                     <a class='menu-trigger'>
