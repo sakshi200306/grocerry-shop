@@ -12,7 +12,6 @@
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-
   <!-- Additional CSS Files -->
   <link rel="stylesheet" href="assets/css/fontawesome.css">
   <link rel="stylesheet" href="assets/css/templatemo-villa-agency.css">
@@ -65,7 +64,7 @@ https://templatemo.com/tm-591-villa-agency
       </div>
     </div>
   </div>
-<br><br>
+  <br><br>
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky">
     <div class="container">
@@ -94,55 +93,132 @@ https://templatemo.com/tm-591-villa-agency
               </div>
             </div>
 
-<div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <!-- First Slide (Active) -->
-    <div class="carousel-item active">
-      <img src="download1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
-      <div class="carousel-caption d-none d-md-block">
-        <h2>Grocery Shop</h2>
-        <p>Hurry! Get the Best Grocery Shop</p>
-      </div>
-    </div>
+            <div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
+              <div class="carousel-inner">
+                <!-- First Slide (Active) -->
+                <div class="carousel-item active">
+                  <img src="grocerry1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
+                  <div class="carousel-caption d-none d-md-block">
+                    <h1 style="color: black;">Grocerry Shop</h1>
+                    <p style="color: black;">Hurry! Get the Best Grocery Shop</p>
+                  </div>
+                </div>
 
-    <!-- Second Slide -->
-    <div class="carousel-item">
-      <img src="download1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 2">
-      <div class="carousel-caption d-none d-md-block">
-        <h2>Fresh Vegetables</h2>
-        <p>Farm-fresh vegetables delivered to your door</p>
-      </div>
-    </div>
+                <!-- Second Slide -->
+                <div class="carousel-item">
+                  <img src="download1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 2">
+                  <div class="carousel-caption d-none d-md-block">
+                    <h2>Fresh Vegetables</h2>
+                    <p>Farm-fresh vegetables delivered to your door</p>
+                  </div>
+                </div>
 
-    <!-- Third Slide -->
-    <div class="carousel-item">
-      <img src="grocery3.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 3">
-      <div class="carousel-caption d-none d-md-block">
-        <h2>Discount Offers</h2>
-        <p>Get up to 50% off on selected items</p>
-      </div>
-    </div>
-  </div>
+                <!-- Third Slide -->
+                <div class="carousel-item">
+                  <img src="grocery3.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 3">
+                  <div class="carousel-caption d-none d-md-block">
+                    <h2>Discount Offers</h2>
+                    <p>Get up to 50% off on selected items</p>
+                  </div>
+                </div>
+              </div>
 
-  <!-- Carousel Controls -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
+              <!-- Carousel Controls -->
+              <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+                <span style="background-color: blue; color:black;" class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+                <span style="background-color: blue; color:black;" class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>
 
-  <!-- Carousel Indicators -->
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-</div>
+              <!-- Carousel Indicators -->
+              <div class="carousel-indicators">
+                <button type="button" style="background-color: blue; color:black;" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" style="background-color: blue; color:black;" data-bs-target="#mainCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" style="background-color: blue; color:black;" data-bs-target="#mainCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+              </div>
+            </div>
+            <br><br><br>
+            <div class="container">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-md-7">
+                    <img style="height: 300px; width:600px;" src="vegetables.jpg" alt="">
+                  </div>
+                  <div class="col-md-5">
+                    <h3>🛒 Why Choose Fresh Vegetables?</h3>
+                    <p> <br><br>
+                      ✅ Naturally Nutritious
+                      Packed with essential vitamins, minerals, and fiber. Great for heart health, digestion, and immunity.
+                      <br><br><br>
+                      ✅ Low in Calories
+                      Perfect for healthy eating and weight management.
+                      <br><br><br>
+                      ✅ Versatile in the Kitchen
+                      Grill, steam, roast, or eat raw — there’s a veggie for every dish!
+                    </p>
+                  </div>
 
-</nav>
+                </div>
+              </div>
+            </div> <br><br><br><br>
+            <div class="container">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-md-7">
+                    <h3>🛒 Why Choose Grains?</h3>
+                    <p> <br> <br>
+                      ✅🌾 Nutrient-rich – Packed with vitamins & minerals          
+                                  <br><br>
+                      ✅ 🧻 High in fiber – Supports digestion & heart health
+                      <br><br>
+                      ✅ ⚡ Energy boost – Great source of healthy carbs
+                      <br><br>
+                      ✅ ❤️ Heart-friendly – Linked to lower disease risk
+                      <br><br>
+                      ✅ 💰 Affordable – Budget-friendly and accessible
+
+
+                    </p>
+                    
+                  </div>
+                  <div class="col-md-5">
+                    <img style="height: 300px; width:600px;" src="organic.jpg" alt="">
+                  </div>
+
+                </div>
+              </div>
+            </div>
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          </nav>
         </div>
       </div>
     </div>
