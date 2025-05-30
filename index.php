@@ -65,7 +65,7 @@ https://templatemo.com/tm-591-villa-agency
       </div>
     </div>
   </div>
-
+<br><br>
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky">
     <div class="container">
@@ -76,9 +76,10 @@ https://templatemo.com/tm-591-villa-agency
             <a href="index.php" class="logo">
               <h1>Grocerry Shop</h1>
             </a>
+            <br><br>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
-          
+
             <div class="card" style="background-color: pink;">
               <div class="card-header">
 
@@ -89,41 +90,64 @@ https://templatemo.com/tm-591-villa-agency
                   <li style="margin-right: 90px;"><a href="Services_details.php">Services Details</a></li>
                   <li style="margin-right: 90px;"><a href="privacy.php">Privacy and Police</a></li>
                   <li style="margin-right: 100px;"><a href="Contact.php">Contact us</a></li>
-
                 </ul>
-
               </div>
             </div>
 
-            <!-- <div class="main-banner"> -->
-              <div class="carousel-inner">
-                <div class="carosel-item actives">
-                  <div class="owl-carousel owl-banner">
-                    <div class="item item-1"><br>
-                      <img style="height: 600px; width: 1300px" src="download.jpg" alt="">
+<div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <!-- First Slide (Active) -->
+    <div class="carousel-item active">
+      <img src="download1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
+      <div class="carousel-caption d-none d-md-block">
+        <h2>Grocery Shop</h2>
+        <p>Hurry! Get the Best Grocery Shop</p>
+      </div>
+    </div>
 
-                      <div class="header-text">
-                        <span class="category">Grocerry <em>Shop</em></span>
-                        <h2>Hurry!<br>Get the Best Grocerry shop</h2>
-                      </div>
-                    </div>
-                    <div class="item item-2">
-                      <div class="header-text">
-                        <span class="category">Grocerry <em>Shop</em></span>
-                        <h2>Be Quick!<br>Get the Best Grocerry shop</h2>
-                      </div>
-                    </div>
-                    <div class="item item-3">
-                      <div class="header-text">
-                        <span class="category">Grocerry <em>Shop</em></span>
-                        <h2>Hurry!<br>Get the Best Grocerry Shop</h2>
-                      </div>
-                    </div>
-                  </div>
-                <!-- </div> -->
-          </nav>
+    <!-- Second Slide -->
+    <div class="carousel-item">
+      <img src="download1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 2">
+      <div class="carousel-caption d-none d-md-block">
+        <h2>Fresh Vegetables</h2>
+        <p>Farm-fresh vegetables delivered to your door</p>
+      </div>
+    </div>
+
+    <!-- Third Slide -->
+    <div class="carousel-item">
+      <img src="grocery3.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 3">
+      <div class="carousel-caption d-none d-md-block">
+        <h2>Discount Offers</h2>
+        <p>Get up to 50% off on selected items</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Carousel Controls -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+
+  <!-- Carousel Indicators -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#mainCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+</div>
+
+</nav>
         </div>
       </div>
+    </div>
+    </div>
+    </div>
     </div>
     </div>
     </div>
