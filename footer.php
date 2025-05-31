@@ -5,7 +5,8 @@
           &copy; <span id="displayYear"></span> All Rights Reserved By
           <a href="https://html.design/"></a>
         </p>
-      </div>
+      </div>  
+      
     </footer>
     <!-- footer section -->
 
