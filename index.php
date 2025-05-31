@@ -88,7 +88,7 @@ https://templatemo.com/tm-591-villa-agency
                   <li style="margin-right: 90px;"><a href="Services.php">Services</a></li>
                   <li style="margin-right: 90px;"><a href="Services_details.php">Services Details</a></li>
                   <li style="margin-right: 90px;"><a href="privacy.php">Privacy and Police</a></li>
-                  <li style="margin-right: 100px;"><a href="Contact.php">Contact us</a></li>
+                  <li style="margin-right: 100px;"><a href="contact.php">Contact us</a></li>
                 </ul>
               </div>
             </div>
@@ -228,3 +228,7 @@ https://templatemo.com/tm-591-villa-agency
     </div>
     </div>
     </div>
+    <br><br>
+    <?php
+    include "footer.php";
+    ?>
