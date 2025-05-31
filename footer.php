@@ -1,9 +1,9 @@
   <!-- footer section -->
   <footer class=" footer_section">
-      <div class="container">
+      <div class="container" style="text-align: center; padding: 50px;">
         <p>
           &copy; <span id="displayYear"></span> All Rights Reserved By
-          <a href="https://html.design/">Free Html Templates</a>
+          <a href="https://html.design/"></a>
         </p>
       </div>
     </footer>
