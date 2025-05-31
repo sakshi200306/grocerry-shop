@@ -3,8 +3,6 @@
 
 <head>
 
-
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -45,7 +43,6 @@ include "header.php";
             <img src="grocerry1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
             <div class="carousel-caption d-none d-md-block">
                 <!-- <h1 style="color: black;">WEL-COME TO OUR</h1> -->
-
                 <!-- <h1 style="color: black;">MORE SUPER MARKET</h1> -->
                 <!-- <p style="color: black;">Hurry! Get the Best products</p> -->
             </div>
@@ -91,7 +88,6 @@ include "header.php";
                 <br>
                 <h3 style="text-align: center;">Clean environment</h3>
             </div>
-
         </div>
     </div>
 </div>
