@@ -3,10 +3,10 @@
       <div class="container" style="text-align: center; padding: 50px;">
         <p>
           &copy; <span id="displayYear"></span> All Rights Reserved By
-          <a href="https://html.design/"></a>
+          <a href="https://html.design/">free template</a>
         </p>
       </div>  
-      
+
     </footer>
     <!-- footer section -->
 
