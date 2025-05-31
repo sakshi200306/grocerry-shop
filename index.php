@@ -73,7 +73,7 @@ https://templatemo.com/tm-591-villa-agency
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.php" class="logo">
-              <h1>Grocerry Shop</h1>
+              <h1> Grocerry Shop</h1>
             </a>
             <br><br>
             <!-- ***** Logo End ***** -->
@@ -99,8 +99,10 @@ https://templatemo.com/tm-591-villa-agency
                 <div class="carousel-item active">
                   <img src="grocerry1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
                   <div class="carousel-caption d-none d-md-block">
-                    <h1 style="color: black;">Grocerry Shop</h1>
-                    <p style="color: black;">Hurry! Get the Best Grocery Shop</p>
+                    <h1 style="color: black;">WEL-COME TO OUR</h1>
+
+                    <h1 style="color: black;">MORE SUPER MARKET</h1>
+                    <p style="color: black;">Hurry! Get the Best products</p>
                   </div>
                 </div>
 
