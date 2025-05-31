@@ -100,7 +100,6 @@ https://templatemo.com/tm-591-villa-agency
                   <img src="grocerry1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
                   <div class="carousel-caption d-none d-md-block">
                     <h1 style="color: black;">WEL-COME TO OUR</h1>
-
                     <h1 style="color: black;">MORE SUPER MARKET</h1>
                     <p style="color: black;">Hurry! Get the Best products</p>
                   </div>
