@@ -57,7 +57,7 @@ https://templatemo.com/tm-591-villa-agency
           <span style="font-size: 40px; text-align:center;">We offer a wide range of grocery products to meet all your needs</span>
 
           <br><br>
-          <p style="font-size: 40px; text-align:center;">At our grocery store, we are committed to providing you with the best shopping experience. Our services include:</p> <br><br>
+          <p style="font-size: 40px; text-align:center;">At our grocery store, we are committed to providing you with the best shopping experience. Our services include</p> <br><br>
         <h2 style="text-align: center; font-size: 70px;"><span style="background-color: yellow; font-weight: bold; ">Product Services</span></h2>
 
           <br><br>
