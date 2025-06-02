@@ -25,64 +25,71 @@ TemplateMo 591 villa agency
 https://templatemo.com/tm-591-villa-agency
 
 -->
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Bootstrap JS with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
 </head>
 
 <body>
-<?php
-include "header.php"
-?>
-            <div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
-              <div class="carousel-inner">
-                <!-- First Slide (Active) -->
-                <div class="carousel-item active">
-                  <img src="grocerry1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
-                  <div class="carousel-caption d-none d-md-block">
-                    <h1 style="color: black;">WEL-COME TO OUR</h1>
-                    <h1 style="color: black;">MORE SUPER MARKET</h1>
-                    <p style="color: black;">Hurry! Get the Best products</p>
-                  </div>
-                </div>
+  <?php
+  include "header.php"
+  ?>
+  <br><br><br><br>
+  <div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <!-- First Slide (Active) -->
+      <div class="carousel-item active">
+        <img src="grocery3.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
+        <div class="carousel-caption d-none d-md-block">
+          <h1 style="color: black;">WEL-COME TO OUR</h1>
+          <h1 style="color: black;">MORE SUPER MARKET</h1>
+          <p style="color: black;">Hurry! Get the Best products</p>
+        </div>
+      </div>
 
-                <!-- Second Slide -->
-                <div class="carousel-item">
-                  <img src="download1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 2">
-                  <div class="carousel-caption d-none d-md-block">
-                    <h2>Fresh Vegetables</h2>
-                    <p>Farm-fresh vegetables delivered to your door</p>
-                  </div>
-                </div>
+      <!-- Second Slide -->
+      <div class="carousel-item">
+        <img src="grocery3.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 2">
+        <div class="carousel-caption d-none d-md-block">
+          <h2>MORE SUPER MARKET</h2>
+          <p>Farm-fresh vegetables delivered to your door</p>
+        </div>
+      </div>
 
-                <!-- Third Slide -->
-                <div class="carousel-item">
-                  <img src="grocery3.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 3">
-                  <div class="carousel-caption d-none d-md-block">
-                    <h2>Discount Offers</h2>
-                    <p>Get up to 50% off on selected items</p>
-                  </div>
-                </div>
-              </div>
+      <!-- Third Slide -->
+      <div class="carousel-item">
+        <img src="grocery3.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 3">
+        <div class="carousel-caption d-none d-md-block">
+          <h2>Discount Offers</h2>
+          <p>Get up to 50% off on selected items</p>
+        </div>
+      </div>
+    </div>
 
-              <!-- Carousel Controls -->
-              <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
-                <span style="background-color: blue; color:black;" class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-              </button>
-              <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
-                <span style="background-color: blue; color:black;" class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-              </button>
+    <!-- Carousel Controls -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#mainCarousel" data-bs-slide="prev">
+      <span style="background-color: blue; color:black;" class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#mainCarousel" data-bs-slide="next">
+      <span style="background-color: blue; color:black;" class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
 
-              <!-- Carousel Indicators -->
-              <div class="carousel-indicators">
-                <button type="button" style="background-color: blue; color:black;" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                <button type="button" style="background-color: blue; color:black;" data-bs-target="#mainCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                <button type="button" style="background-color: blue; color:black;" data-bs-target="#mainCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-              </div>
-            </div>
-            <br><br><br>
-            <div class="container">
+    <!-- Carousel Indicators -->
+    <div class="carousel-indicators">
+      <button type="button" style="background-color: blue; color:black;" data-bs-target="#mainCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" style="background-color: blue; color:black;" data-bs-target="#mainCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+      <button type="button" style="background-color: blue; color:black;" data-bs-target="#mainCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+  </div>
+  <br><br><br>
+  <!-- <div class="container">
               <div class="container-fluid">
                 <div class="row">
                   <div class="col-md-7">
@@ -132,43 +139,109 @@ include "header.php"
                 </div>
               </div>
             </div>
-            
+             -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          </nav>
-        </div>
+  <h1 style="text-align: center; font-size: 70px;">Food Store</h1>
+  <br><br><br>
+  <div class="container">
+    <!-- <div class="container-fluid"> -->
+    <div class="row">
+      <div class="col-sm-3">
+        <img style="height: 250px; width: 310px; "src="snack.jpg" alt=""><br><br><br>
+        <h3 style="text-align: center;">Snacks and Nibbles</h3>
+      </div>
+      <div class="col-sm-3">
+        <img style="height: 250px; width: 350px;" src="breakfast.jpg" alt=""><br><br><br>
+        <h3 style="text-align: center;">Breakfast staples</h3>
+      </div>
+      <div class="col-sm-3">
+        <img style="height: 250px; width: 310px;" src="herbs.jpg" alt=""><br><br><br>
+        <h3 style="text-align: center;" >Herbs and seasoning</h3>
+      </div>
+      <div class="col-sm-3">
+        <img style="height: 250px;  width: 350px; " src="juices.jpg" alt=""><br><br><br>
+        <h3 style="text-align: center;">Juices</h3>
+        <!-- </div> -->
+       
       </div>
     </div>
+  </div>
+
+
+ <!-- endd................. -->
+
+<br><br><br><br><br>
+ <div class="container">
+      <h2 style="font-size: 80px; text-align:center;">Food and Beverages Store</h2>  <br><br><br><br><br>
+  <div class="row">
+    <div class="col-sm-3">
+      <img src="cookies.jpg" alt="">
+      <h2>Biscuits </h2>
     </div>
+    <div class="col-sm-3">
+      <img src="chocalates.jpg" alt="">
+      <h2>Chocolates</h2>
     </div>
+     <div class="col-sm-3">
+      <img src="biscuits.jpg" alt="">
+      <h2>Cookies</h2>
     </div>
+     <div class="col-sm-3">
+      <img src="candies.jpg" alt="">
+      <h2>Candies</h2>
     </div>
+  </div><br><br> <br><br>
+   <div class="row">
+    <div class="col-sm-3">
+      <img src="juices1.jpg" alt=""> <br><br>
+      <h2 style="text-align: center;">Juices </h2>
     </div>
-    <br><br>
-    <?php
-    include "footer.php";
-    ?>
+    <div class="col-sm-3">
+      <img src="soft drinks.jpg" alt=""><br><br><br> 
+      <br>
+      <h2 style="text-align: center;">Soft Drinks</h2>
+    </div>
+     <div class="col-sm-3">
+      <img src="tea.jpg" alt=""><br><br>
+      <h2 style="text-align: center;">Tea Powder</h2>
+    </div>
+     <div class="col-sm-3">
+      <img src="coffee.jpg" alt=""><br><br>
+      <h2 style="text-align: center;"> Coffee</h2>
+    </div>
+  </div>
+
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </nav>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <br><br>
+  <?php
+  include "footer.php";
+  ?>
