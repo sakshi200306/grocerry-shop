@@ -94,7 +94,8 @@ https://templatemo.com/tm-591-villa-agency
               <div class="carousel-item active">
                 <h3 style="font-size: 70px;">Fresh Produce</h3>
                 <img  src="fresh_produce.jpg" class="d-block mx-auto img-fluid" style=" max-height: 450px; width: 900px;" alt="Fresh Produce">
-                <p>We offer a wide selection of fresh fruits and vegetables sourced from local farms.</p>
+                <br>
+                <p style="font-size: 30px;">We offer a wide selection of fresh fruits and vegetables sourced from local farms.</p>
               </div>
 
               <!-- Slide 2 -->
@@ -129,3 +130,6 @@ https://templatemo.com/tm-591-villa-agency
       </div>
     </div>
   </div>
+  <?php
+  include "footer.php";
+    ?>
