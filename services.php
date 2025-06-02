@@ -25,7 +25,8 @@ TemplateMo 591 villa agency
 https://templatemo.com/tm-591-villa-agency
 
 -->
-
+  <!-- Bootstrap 5 CSS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
 </head>
 
@@ -58,7 +59,7 @@ https://templatemo.com/tm-591-villa-agency
 
           <br><br>
           <p style="font-size: 40px; text-align:center;">At our grocery store, we are committed to providing you with the best shopping experience. Our services include</p> <br><br>
-        <h2 style="text-align: center; font-size: 70px;"><span style="background-color: yellow; font-weight: bold; ">Product Services</span></h2>
+          <h2 style="text-align: center; font-size: 70px;"><span style="background-color: yellow; font-weight: bold; ">Product Services</span></h2>
 
           <br><br>
 
@@ -93,7 +94,7 @@ https://templatemo.com/tm-591-villa-agency
               <!-- Slide 1 -->
               <div class="carousel-item active">
                 <h3 style="font-size: 70px;">Fresh Produce</h3>
-                <img  src="fresh_produce.jpg" class="d-block mx-auto img-fluid" style=" max-height: 450px; width: 900px;" alt="Fresh Produce">
+                <img src="fresh_produce.jpg" class="d-block mx-auto img-fluid" style=" max-height: 450px; width: 900px;" alt="Fresh Produce">
                 <br>
                 <p style="font-size: 30px;">We offer a wide selection of fresh fruits and vegetables sourced from local farms.</p>
               </div>
@@ -101,14 +102,14 @@ https://templatemo.com/tm-591-villa-agency
               <!-- Slide 2 -->
               <div class="carousel-item">
                 <h3>Organic Options</h3>
-                <img src="organic_option.jpg" class="d-block mx-auto img-fluid" style="max-height: 400px; width: 400px;" alt="Organic Options">
+                <img src="organic_option.jpg" class="d-block mx-auto img-fluid" style="max-height: 400px; width: 900px;" alt="Organic Options">
                 <p>Explore our range of organic products, including grains, dairy, and snacks.</p>
               </div>
 
               <!-- Slide 3 -->
               <div class="carousel-item">
                 <h3>Household Essentials</h3>
-                <img src="household.jpg" class="d-block mx-auto img-fluid" style="max-height: 400px;" alt="Household Essentials">
+                <img src="household.jpg" class="d-block mx-auto img-fluid" style="max-height: 400px; width: 900px;" alt="Household Essentials">
                 <p>Find everything you need for your home, from cleaning supplies to personal care items.</p>
               </div>
 
@@ -116,13 +117,65 @@ https://templatemo.com/tm-591-villa-agency
 
             <!-- Carousel controls -->
             <button class="carousel-control-prev" type="button" data-bs-target="#productCarousel" data-bs-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span style="background-color: blue; color:black;" class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Previous</span>
             </button>
             <button class="carousel-control-next" type="button" data-bs-target="#productCarousel" data-bs-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span style="background-color: blue; color:black;" class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Next</span>
             </button>
+          </div>
+          <!-- products...... -->
+           <br><br><br>
+           <br><br>
+          <div class="container">
+            <div class="container-fluid">
+              <div class="row">
+                <h3 style="color: black; font-size: 45px; text-align:center;">OUR GOAL IS TO PROVIDE</h3>
+<br>
+                <div class="col-sm-4"> <br><br>
+                  <img style="height: 250px; width: 400px;" src="quality.jpg" alt=""><br>
+                  <br>
+                  <h3 style="text-align: center;">Quality Products</h3>
+                </div>
+                <div class="col-sm-4"> <br><br>
+                  <img style="height: 250px; width: 400px;" src="friendly.jpg" alt=""><br>
+                  <br>
+                  <h3 style="text-align: center;">Friendly Services </h3>
+                </div>
+                <div class="col-sm-4"> <br><br>
+                  <img style="height: 250px; width: 400px;" src="clean.jpg" alt=""><br>
+                  <br>
+                  <h3 style="text-align: center;">Clean environment</h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- lasttttt --> <br><br><br>
+           <br><br><br>
+          <div class="container">
+            <div class="container-fluid">
+              <div class="row">
+                <h3 style="color: black; font-size: 45px; text-align:center;">WE ALSO OFFER ----</h3>
+
+                <div class="col-sm-4"> <br><br>
+                  <h3 style="text-align: center;">Home Delivery</h3><br>
+                  <img style="height: 250px; width: 400px;" src="home.jpg" alt="">
+
+                </div>
+                <div class="col-sm-4"> <br><br>
+                  <h3 style="text-align: center;">Online Delivery </h3><br>
+                  <img style="height: 250px; width: 400px;" src="online.jpg" alt="">
+
+                </div>
+                <div class="col-sm-4"> <br>
+                  <h3 style="text-align: center;">Special discounts for regular customer</h3>
+                  <img style="height: 270px; width: 400px;" src="offer.jpg" alt="">
+
+                </div>
+
+              </div>
+            </div>
           </div>
 
 
@@ -132,4 +185,4 @@ https://templatemo.com/tm-591-villa-agency
   </div>
   <?php
   include "footer.php";
-    ?>
+  ?>
