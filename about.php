@@ -74,17 +74,17 @@ include "header.php";
             <h3 style="color: black; font-size: 45px; text-align:center;">OUR GOAL IS TO PROVIDE</h3>
 
             <div class="col-sm-4"> <br><br>
-                <img style="height: 250px; width: 400px;" src="quality.jpg" alt=""><br>
+                <img style="height: 400px; width: 400px;" src="quality.jpg" alt=""><br>
                 <br>
                 <h3 style="text-align: center;">Quality Products</h3>
             </div>
             <div class="col-sm-4"> <br><br>
-                <img style="height: 250px; width: 400px;" src="friendly.jpg" alt=""><br>
+                <img style="height: 400px; width: 400px;" src="friendly.jpg" alt=""><br>
                 <br>
                 <h3 style="text-align: center;">Friendly Services </h3>
             </div>
             <div class="col-sm-4"> <br><br>
-                <img style="height: 250px; width: 400px;" src="clean.jpg" alt=""><br>
+                <img style="height: 400px; width: 400px;" src="clean.jpg" alt=""><br>
                 <br>
                 <h3 style="text-align: center;">Clean environment</h3>
             </div>
@@ -92,6 +92,7 @@ include "header.php";
     </div>
 </div>
 
+<br><br>
 <br><br>
 <!-- last section -->
  <div class="container">
@@ -101,17 +102,17 @@ include "header.php";
 
             <div class="col-sm-4"> <br><br>
             <h3 style="text-align: center;">Home Delivery</h3><br>
-                <img style="height: 250px; width: 400px;" src="home.jpg" alt="">
+                <img style="height: 400px; width: 400px;" src="home.jpg" alt="">
                 
             </div>
             <div class="col-sm-4"> <br><br>
              <h3 style="text-align: center;">Online Delivery </h3><br>
-                <img style="height: 250px; width: 400px;" src="online.jpg" alt="">
+                <img style="height: 400px; width: 400px;" src="online.jpg" alt="">
                
             </div>
             <div class="col-sm-4"> <br>
             <h3 style="text-align: center;">Special discounts for regular customer</h3>
-                <img style="height: 270px; width: 400px;" src="offer.jpg" alt="">
+                <img style="height: 400px; width: 400px;" src="offer.jpg" alt="">
                 
             </div>
 
