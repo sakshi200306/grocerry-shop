@@ -176,19 +176,19 @@ https://templatemo.com/tm-591-villa-agency
   <div class="row">
     <div class="col-sm-3">
       <img src="cookies.jpg" alt="">
-      <h2>Biscuits </h2>
+      <h2 style="text-align: center;">Biscuits </h2>
     </div>
     <div class="col-sm-3">
       <img src="chocalates.jpg" alt="">
-      <h2>Chocolates</h2>
+      <h2 style="text-align: center;">Chocolates</h2>
     </div>
      <div class="col-sm-3">
       <img src="biscuits.jpg" alt="">
-      <h2>Cookies</h2>
+      <h2 style="text-align: center;">Cookies</h2>
     </div>
      <div class="col-sm-3">
       <img src="candies.jpg" alt="">
-      <h2>Candies</h2>
+      <h2 style="text-align: center;">Candies</h2>
     </div>
   </div><br><br> <br><br>
    <div class="row">
