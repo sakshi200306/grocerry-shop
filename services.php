@@ -33,12 +33,12 @@ https://templatemo.com/tm-591-villa-agency
 <body>
   <?php
   include "header.php";
-  ?>
+  ?> <br><br>
   <div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <!-- First Slide (Active) -->
       <div class="carousel-item active">
-        <img src="grocerry1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
+        <img src="grocery3.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
         <div class="carousel-caption d-none d-md-block">
           <!-- <h1 style="color: black;">WEL-COME TO OUR</h1> -->
           <!-- <h1 style="color: black;">MORE SUPER MARKET</h1> -->
@@ -48,6 +48,7 @@ https://templatemo.com/tm-591-villa-agency
 
     </div>
   </div>
+  <br><br>
   <!-- first section -->
   <div class="container">
     <div class="row">
