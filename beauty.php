@@ -38,7 +38,19 @@ https://templatemo.com/tm-591-villa-agency
 <body>
     <?php
     include "header.php";
-    ?><br><br>
+    ?><br>
+<div class="container">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <img style="width:1280px;" src="beauty banner.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    <br><br>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -120,6 +132,24 @@ https://templatemo.com/tm-591-villa-agency
             <div class="col-md-4">
                 <img style="height: 270px;" src="sunscream.jpg " alt=""><br><br>
                 <h4 style="text-align: center;">Sunscreen</h4>
+            </div>
+
+        </div>
+    </div>
+<br><br><div class="container">
+        <div class="row">
+
+            <div class="col-md-4">
+                <img src="cc.jpg" alt=""><br><br>
+                <h4 style="text-align: center;">CC Cream</h4>
+            </div>
+            <div class="col-md-4">
+                <img src="fair.jpg" alt=""><br><br>
+                <h4 style="text-align: center;">Fairness Cream</h4>
+            </div>
+            <div class="col-md-4">
+                <img style="height: 270px;" src="eyeshadow.jpg" alt=""><br><br>
+                <h4 style="text-align: center;">Eyeshadow</h4>
             </div>
 
         </div>
