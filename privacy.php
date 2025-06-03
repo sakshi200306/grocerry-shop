@@ -38,7 +38,14 @@ https://templatemo.com/tm-591-villa-agency
 <body>
   <?php
   include "header.php"
-  ?>
+  ?> <br><br>
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <img style="height: 500px;" src="policybanner.jpg" alt="">
+        </div>
+    </div>
+  </div>
   <br><br><br><br>
 
 <div class="container">
