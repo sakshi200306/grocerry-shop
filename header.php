@@ -111,9 +111,9 @@ https://templatemo.com/tm-591-villa-agency
                     </button>
                     <ul class="dropdown-menu">
                       <li><a class="dropdown-item" href="beauty.php">Beauty and hygiene</a></li>
-                      <li><a class="dropdown-item" href="#">Baby Care</a></li>
-                      <li><a class="dropdown-item" href="#">Cleaning and Householiding</a></li>
-                      <li><a class="dropdown-item" href="#">Features Products</a></li>
+                      <li><a class="dropdown-item" href="baby_care.php">Baby Care</a></li>
+                      <li><a class="dropdown-item" href="cleaning.php">Cleaning and Householiding</a></li>
+                      <li><a class="dropdown-item" href="grains.php">Grains</a></li>
 
 
                     </ul>

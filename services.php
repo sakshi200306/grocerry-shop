@@ -103,14 +103,16 @@ https://templatemo.com/tm-591-villa-agency
               <div class="carousel-item">
                 <h3>Organic Options</h3>
                 <img src="organic_option.jpg" class="d-block mx-auto img-fluid" style="max-height: 400px; width: 900px;" alt="Organic Options">
-                <p>Explore our range of organic products, including grains, dairy, and snacks.</p>
+                <br>
+                <p style="font-size: 30px;">Explore our range of organic products, including grains, dairy, and snacks.</p>
               </div>
 
               <!-- Slide 3 -->
               <div class="carousel-item">
                 <h3>Household Essentials</h3>
                 <img src="household.jpg" class="d-block mx-auto img-fluid" style="max-height: 400px; width: 900px;" alt="Household Essentials">
-                <p>Find everything you need for your home, from cleaning supplies to personal care items.</p>
+                <br>
+                <p style="font-size: 30px;">Find everything you need for your home, from cleaning supplies to personal care items.</p>
               </div>
 
             </div>
