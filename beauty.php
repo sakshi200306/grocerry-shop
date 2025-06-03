@@ -65,7 +65,7 @@ https://templatemo.com/tm-591-villa-agency
         <div class="row">
             <div class="col-md-4">
                 <img src="foundation.jpg" alt=""><br><br>
-                <h4 style="text-align: center;">Foundation</h4>
+                <button style="border:white;"><a href="foundation.php"><h4  style="text-align: center;">Foundation</h4></a> </button>
             </div>
             <div class="col-md-4">
                 <img src="conceller.jpg" alt=""><br><br>
@@ -83,8 +83,9 @@ https://templatemo.com/tm-591-villa-agency
         <div class="row">
 
             <div class="col-md-4">
-                <img src="blusher.jpg" alt=""><br><br>
-                <h4 style="text-align: center;">Blusher</h4>
+                <img src="blusherbanner1.jfif" alt=""><br><br>
+                <button style="border:white;"><a href="foundation.php"><h4  style="text-align: center;">Blusher</a> </button>
+                
             </div>
             <div class="col-md-4">
                 <img src="kajal.jpg" alt=""><br><br>
@@ -151,7 +152,6 @@ https://templatemo.com/tm-591-villa-agency
                 <img style="height: 270px;" src="eyeshadow.jpg" alt=""><br><br>
                 <h4 style="text-align: center;">Eyeshadow</h4>
             </div>
-
         </div>
     </div>
 
