@@ -90,29 +90,95 @@ https://templatemo.com/tm-591-villa-agency
     </div>
 
     <br><br>
-    
-        <div class="container">
-            <h2 style="color: black; font-size: 45px; text-align:center;">Our Grains Collection</h2>
-            <br>
-            <p style="font-size: 35px;  text-align:center;">Explore a variety of high-quality grains sourced from trusted suppliers.</p>
-        </div>
-        <br><br>
-        <div class="container">
+
+    <div class="container">
+        <h2 style="color: black; font-size: 45px; text-align:center;">Our Grains Collection</h2>
+        <br>
+        <p style="font-size: 35px;  text-align:center;">Explore a variety of high-quality grains sourced from trusted suppliers.</p>
+    </div>
+    <br><br>
+    <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="grains5.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                    <img src="rice.jpg" alt="" style="width:90%; height:300px;"><br><br>
                     <h3 style="text-align: center;">Rice</h3><br>
                     <p style="text-align: center;">Premium quality rice for your daily meals.</p>
                 </div>
                 <div class="col-md-4">
-                    <img src="grains6.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                    <img src="wheat.jpg" alt="" style="width:90%; height:300px;"><br><br>
                     <h3 style="text-align: center;">Wheat</h3><br>
                     <p style="text-align: center;">Whole wheat flour for healthy baking.</p>
                 </div>
                 <div class="col-md-4">
-                    <img src="grains7.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                    <img src="oats.jpg" alt="" style="width:90%; height:300px;"><br><br>
                     <h3 style="text-align: center;">Oats</h3><br>
                     <p style="text-align: center;">Nutritious oats for a wholesome breakfast.</p>
                 </div>
             </div>
         </div>
+    </div>
+    <br><br>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <img src="baerly.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                <h3 style="text-align: center;">Barley</h3><br>
+                <p style="text-align: center;">Healthy barley grains for soups and salads.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="millet.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                <h3 style="text-align: center;">Millet</h3><br>
+                <p style="text-align: center;">Gluten-free millet for a nutritious diet.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="quinoa.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                <h3 style="text-align: center;">Quinoa</h3><br>
+                <p style="text-align: center;">Protein-rich quinoa for healthy meals.</p>
+            </div>
+        </div>
+    </div>
+    <br><br>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <img src="corn.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                <h3 style="text-align: center;">Corn</h3><br>
+                <p style="text-align: center;">Fresh corn for snacks and cooking.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="sorghum.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                <h3 style="text-align: center;">Sorghum</h3><br>
+                <p style="text-align: center;">Sorghum grains for a healthy alternative.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="millets.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                <h3 style="text-align: center;">Millets</h3><br>
+                <p style="text-align: center;">Variety of millets for a balanced diet.</p>
+            </div>
+        </div>
+    </div>
+    <br><br>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <img src="flaxed.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                <h3 style="text-align: center;">Flaxseed</h3><br>
+                <p style="text-align: center;">Nutritious flaxseed for health benefits.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="chai.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                <h3 style="text-align: center;">Chia Seeds</h3><br>
+                <p style="text-align: center;">Chia seeds for a superfood boost.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="seeds1.jpg" alt="" style="width:90%; height:300px;"><br><br>
+                <h3 style="text-align: center;">Sesame Seeds</h3><br>
+                <p style="text-align: center;">Sesame seeds for flavor and nutrition.</p>
+            </div>
+        </div>
+    </div>
+    <br><br><br><br><br>
+    <?php
+    include "footer.php";
+    ?>

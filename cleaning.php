@@ -167,3 +167,10 @@ https://templatemo.com/tm-591-villa-agency
                 <h3 style="text-align: center;">Scented Candles</h3><br>
                 <p style="text-align: center;">Relax with our scented candles for a soothing ambiance.</p>
             </div>
+        </div>
+            <br><br><br>
+            <br><br>
+            
+            <?php
+            include "footer.php";
+            ?>

@@ -36,7 +36,7 @@ https://templatemo.com/tm-591-villa-agency
 <?php
 include "header.php";
 ?>
-<br><br><br><br>
+<br><br>
 <div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
         <!-- First Slide (Active) -->
@@ -51,16 +51,10 @@ include "header.php";
 
     </div>
 </div>
-
-
 <!-- header pageee -->
-
-
-<br><br><br><br> 
+<br><br><br><br>
 <div class="container">
     <div class="container-fluid">
-
-
         <h2 style="color: black; font-size: 45px; text-align:center;">Welcome To MORE Super Market</h2>
         <br>
         <p style="font-size: 35px;  text-align:center;">- your trusted neighborhood grocerry store ! <br> We have been serving our community since (1989), with fresh fruits , vegetables , dairy , grains , and daily essentials at affordable prices . </p>
@@ -102,7 +96,7 @@ include "header.php";
     </div>
   </div>
 </div> -->
- 
+ <br><br><br><br><br>
 <?php
 include "footer.php";
 ?>

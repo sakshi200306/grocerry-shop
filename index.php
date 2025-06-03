@@ -39,7 +39,7 @@ https://templatemo.com/tm-591-villa-agency
   <?php
   include "header.php"
   ?>
-  <br><br><br><br>
+  <br><br>
   <div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <!-- First Slide (Active) -->
@@ -212,26 +212,6 @@ https://templatemo.com/tm-591-villa-agency
   </div>
 
  </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   </nav>
   </div>
   </div>
@@ -241,7 +221,7 @@ https://templatemo.com/tm-591-villa-agency
   </div>
   </div>
   </div>
-  <br><br>
+  <br><br><br><br><br>
   <?php
   include "footer.php";
   ?>

@@ -42,10 +42,11 @@ include "header.php";
 
 
                     <div class="col-lg-5 col-6">
-                <button style="background-color: skyblue; height:50px; width:120px;">submit</button>        
-                </div>
+                        <button style="background-color: skyblue; height:50px; width:120px;">submit</button>
+                    </div>
                 </form>
             </div>
+            <br><br>
             <div class="col-lg-6 px-0">
                 <div class="map_container">
                     <div class="map-responsive" style="height:500px;">
@@ -59,7 +60,9 @@ include "header.php";
 </main>
 </div>
 
+<br><br><br>
 <!-- Back to Top -->
+ <br><br>
 <?php
 include "footer.php";
 ?>
