@@ -36,11 +36,12 @@ https://templatemo.com/tm-591-villa-agency
 <?php
 include "header.php";
 ?>
+<br><br><br><br>
 <div id="mainCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
         <!-- First Slide (Active) -->
         <div class="carousel-item active">
-            <img src="grocerry1.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
+            <img src="grocery3.jpg" class="d-block w-100" style="height: 600px;" alt="Slide 1">
             <div class="carousel-caption d-none d-md-block">
                 <!-- <h1 style="color: black;">WEL-COME TO OUR</h1> -->
                 <!-- <h1 style="color: black;">MORE SUPER MARKET</h1> -->
@@ -55,7 +56,7 @@ include "header.php";
 <!-- header pageee -->
 
 
-
+<br><br><br><br> 
 <div class="container">
     <div class="container-fluid">
 
@@ -68,57 +69,40 @@ include "header.php";
 </div>
 <!-- middle middle section -->
 <br><br>
+<h1 style="text-align: center;"> -------ABOUT US-----</h1> <br><br>
+<br>
 <div class="container">
-    <div class="container-fluid">
-        <div class="row">
-            <h3 style="color: black; font-size: 45px; text-align:center;">OUR GOAL IS TO PROVIDE</h3>
-
-            <div class="col-sm-4"> <br><br>
-                <img style="height: 250px; width: 400px;" src="quality.jpg" alt=""><br>
-                <br>
-                <h3 style="text-align: center;">Quality Products</h3>
-            </div>
-            <div class="col-sm-4"> <br><br>
-                <img style="height: 250px; width: 400px;" src="friendly.jpg" alt=""><br>
-                <br>
-                <h3 style="text-align: center;">Friendly Services </h3>
-            </div>
-            <div class="col-sm-4"> <br><br>
-                <img style="height: 250px; width: 400px;" src="clean.jpg" alt=""><br>
-                <br>
-                <h3 style="text-align: center;">Clean environment</h3>
-            </div>
-        </div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-7">
+        <img style="height: 380px; width:640px;" src="about1.jpg" alt="">
+      </div>
+      <div class="col-md-5">
+        <h2>Grocery shopping is an essential part of daily life. Whether you’re cooking a hearty meal, stocking up on snacks, or ensuring your home is clean and well-supplied, a well-stocked grocery store provides everything you need in one convenient location.</h2>
+      </div>
     </div>
+  </div>
 </div>
+
 
 <br><br>
+
+
+
 <!-- last section -->
- <div class="container">
-    <div class="container-fluid">
-        <div class="row">
-            <h3 style="color: black; font-size: 45px; text-align:center;">WE ALSO OFFER ----</h3>
-
-            <div class="col-sm-4"> <br><br>
-            <h3 style="text-align: center;">Home Delivery</h3><br>
-                <img style="height: 250px; width: 400px;" src="home.jpg" alt="">
-                
-            </div>
-            <div class="col-sm-4"> <br><br>
-             <h3 style="text-align: center;">Online Delivery </h3><br>
-                <img style="height: 250px; width: 400px;" src="online.jpg" alt="">
-               
-            </div>
-            <div class="col-sm-4"> <br>
-            <h3 style="text-align: center;">Special discounts for regular customer</h3>
-                <img style="height: 270px; width: 400px;" src="offer.jpg" alt="">
-                
-            </div>
-
-        </div>
+<!-- 
+<br><br>
+<div class="container">
+  <div class="row">
+    <div class="col-md-5">
+      <h2>Grocery products are everyday essentials that make up the foundation of a household's daily needs. From fresh fruits and vegetables to packaged snacks, beverages, dairy, grains, and cleaning supplies, grocery items are carefully chosen to ensure convenience, nutrition, and value for money.</h2>
     </div>
-</div>
-
+    <div class="col-md-7">
+      <img style="height: 380px; width:640px;" src="gro.jpg" alt="">
+    </div>
+  </div>
+</div> -->
+ 
 <?php
 include "footer.php";
 ?>
